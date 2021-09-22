@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wundermancommerce.interviewtests.graph.FamilyGraphTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-09-22T03:34:13" hostname="claudio-nb-ubuntu" time="0.028">
+  <properties/>
+  <testcase name="validateExpectedNumberOfPeopleLoaded" classname="com.wundermancommerce.interviewtests.graph.FamilyGraphTest" time="0.008"/>
+  <testcase name="validateSizeExtendedFamily" classname="com.wundermancommerce.interviewtests.graph.FamilyGraphTest" time="0.002"/>
+  <testcase name="validatePersonWithNoRelationsExceptWithYourself" classname="com.wundermancommerce.interviewtests.graph.FamilyGraphTest" time="0.001"/>
+  <testcase name="validateExpectedNumberOfConnectionsToOtherPeople" classname="com.wundermancommerce.interviewtests.graph.FamilyGraphTest" time="0.001"/>
+  <testcase name="validatePersonWithOnlyFriends" classname="com.wundermancommerce.interviewtests.graph.FamilyGraphTest" time="0.014"/>
+  <testcase name="validatePersonWithFamilyAndFriends" classname="com.wundermancommerce.interviewtests.graph.FamilyGraphTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
